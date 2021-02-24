@@ -1,4 +1,5 @@
 {
     "title": "React Internationalization with i18next",
-    "description": "I18next is an internationalization-framework written in and for JavaScript"
+    "description": "I18next is an internationalization-framework written in and for JavaScript",
+    "Hi": "Hi"
 }

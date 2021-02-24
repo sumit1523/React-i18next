@@ -1,4 +1,5 @@
 {
   "title": "Reagieren Sie auf Internationalisierung mit i18next",
-  "description": "I18next ist ein Internationalisierungs-Framework, das in und für JavaScript geschrieben wurde"
+  "description": "I18next ist ein Internationalisierungs-Framework, das in und für JavaScript geschrieben wurde",
+  "Hi": "Hallo"
 }
