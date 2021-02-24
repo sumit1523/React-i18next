@@ -15,7 +15,7 @@
   top: 0;
   height: 50px;
   width: 50px;
-  background: cyan;
+  background: coral;
   animation: flip 2s linear infinite;
   transform-origin: right bottom;
 }
