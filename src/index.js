@@ -7,7 +7,8 @@ import './i18n';
 import Loader from './Loader';
 
 ReactDOM.render(
-    <Suspense fallback={(<Loader />)}>
+    <Suspense fallback={(<Loader/>)}>
+        <Loader/>
         <App />
     </Suspense>
     , document.getElementById('root'));
