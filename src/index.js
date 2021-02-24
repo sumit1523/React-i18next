@@ -8,7 +8,6 @@ import Loader from './Loader';
 
 ReactDOM.render(
     <Suspense fallback={(<Loader/>)}>
-        <Loader/>
         <App />
     </Suspense>
     , document.getElementById('root'));
