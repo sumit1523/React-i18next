@@ -5,7 +5,7 @@ const App1 = () => {
 	const {t} = useTranslation();
 	return (
 		<div>
-			{t('Hi')}
+			{t('Hi', {firstName:'sumit', lastName:'kumar'})}
 		</div>
 	);
 }
