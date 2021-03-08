@@ -49,8 +49,8 @@ const App = () => {
 				</div>
 				<img src={logo} className="App-logo" alt="logo" />
 				<App1 />
-				<h3>{t('title')}</h3>
-				<h2>{t('description')}</h2>
+				<h4>{t('title')}</h4>
+				<h3>{t('description')}</h3>
 			</header>
 		</div>
 	);
